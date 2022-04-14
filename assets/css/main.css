@@ -414,7 +414,7 @@ p:last-child {
 a.boxed-btn {
   font-family: 'Poppins', sans-serif;
   display: inline-block;
-  background-color: #EBDACC;
+  background-color: #000000;
   color: #fff;
   padding: 10px 20px;
 }
@@ -1648,7 +1648,7 @@ p.excerpt {
 
 .single-artcile-bg {
   background-image: url("../img/Giveaway2_Tekengebied 1.jpg");
-  height: 450px;
+  height: 500px;
 }
 
 .pagination-wrap {
